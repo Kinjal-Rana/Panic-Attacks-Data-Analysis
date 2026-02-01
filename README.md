@@ -43,6 +43,11 @@ The project explores relationships between demographics, symptoms, lifestyle fac
 - Age group analysis with lifestyle and severity comparison
 - Consistent visual theme across all report pages
 
+## How to Use the Dashboard
+- Use slicers to filter by panic severity, age group, gender, and trigger reason
+- Navigate across Overview, Lifestyle, Age Group, and Symptoms pages
+- Hover over visuals to view detailed values and comparisons
+
 ## Report Snapshot (Power BI Desktop)
 
 ### Panic Attacks Overview Dashboard
@@ -73,3 +78,7 @@ Delivered a production-ready Power BI dashboard that enables interactive explora
 - Data Cleaning & Transformation (ETL)
 - DAX Calculations
 - Analytical Storytelling
+
+## Data Ethics & Disclaimer
+This project uses a synthetic / anonymized dataset for educational and analytical purposes only.  
+It does not represent real patient data and should not be used for medical diagnosis.
